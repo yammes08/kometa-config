@@ -1,2 +1,2 @@
-# PMM-Config
-Plex Meta Manager configuration
+# Kometa-Config
+Kometa configuration
